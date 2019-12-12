@@ -43,7 +43,6 @@ Create a recipe site using a Postgres database. Each recipe should show up on th
 
 ### Note!!!
 - You can use your previous projects as much as you want to.
-- There is starter code already in the project.
 - In the server, you can use ```DateTime``` as the data type.
 - Download https://momentjs.com/ and put it in your javascript folder. If you need to use it in a javascript file, add the script ABOVE your js file in your html.
 - You can get today's information with moment using this code: ```moment(Date.now()).toDate()```
