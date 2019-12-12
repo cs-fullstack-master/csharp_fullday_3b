@@ -6,7 +6,7 @@ Create a recipe site using a Postgres database. Each recipe should show up on th
         
 - recipe name
 - recipe author
-- recipe publish data
+- recipe publish date
 - recipe picture
 - recipe ingredients
 - recipe instructions
