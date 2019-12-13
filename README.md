@@ -1,5 +1,14 @@
 # csharp_fullday_3
 
+## Complete Phases
+1: Due at 10:30a, Get the server up and running using Postgres
+
+2: Due at 12:45pm, See all recipes, add a recipe, and detailed recipe pages working (excluding the ingredient and instruction lists)
+
+3: Due at 2:30pm, Edit and delete pages working.
+
+4: Due at 4:00pm, Figure out lists and CSS
+
 ## Create a recipe app
 
 Create a recipe site using a Postgres database. Each recipe should show up on the home page and allow the user to add a recipe or see the details of a recipe. Each recipe should have the following attributes in the database:        
