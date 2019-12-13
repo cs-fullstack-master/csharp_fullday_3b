@@ -56,3 +56,12 @@ Create a recipe site using a Postgres database. Each recipe should show up on th
 - Download https://momentjs.com/ and put it in your javascript folder. If you need to use it in a javascript file, add the script ABOVE your js file in your html.
 - You can get today's information with moment using this code: ```moment(Date.now()).toDate()```
 - Make sure your publish date is not being reset when submitting your information.
+
+## Challenge
+- Figure out how to trim empty or blank white space in the between lines so they are not included a a step in ingredients or instructions
+Example:
+```
+1 cup flour
+
+2 tsp sugar
+```
